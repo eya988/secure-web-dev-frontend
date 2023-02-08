@@ -1,5 +1,6 @@
 # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework and don't mind using pre-1.0 software — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
 
+I had some issues with the connection to mangodb and the backend. I just developped the function (Register, Login, Add Location, Delete Location, Display Location and Edit Location without doing the tests and the configuration of the routes). The upload the the json file doesn't work at the backend. I had some tests on the users only with the login and registration
 ---
 
 # svelte app
